@@ -33,6 +33,7 @@ NetMonitor és una eina informàtica investiga per a analitzar el tràfic de xar
 * Visita la [documentació oficial de Python](https://docs.python.org/3/) per a més informació sobre les llibreries utilitzades.
 
 [Esquema de la topologia de xarxa](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/network/network.png)
+<img width="261" height="148" alt="image" src="https://github.com/user-attachments/assets/e3ebdaab-53ce-4f6a-bba3-e039e151f56c" />
 
 # Comando de Linux
 
